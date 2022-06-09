@@ -1,0 +1,20 @@
+Room Number: 102 View:  Street Side Maximum Capacity:  2 Kitchenette
+Room Number: 103 View:  Ocean Side Maximum Capacity:  4 Kitchenette
+Room Number: 105 View:  Ocean Front Maximum Capacity:  4 Kitchenette
+Room Number: 106 View:  Ocean Front Maximum Capacity:  4
+Room Number: 110 View:  Ocean Side Maximum Capacity:  4 Kitchenette
+Room Number: 201 View:  Ocean Front Maximum Capacity:  2
+Room Number: 203 View:  Ocean Side Maximum Capacity:  4
+Room Number: 204 View:  Ocean Side Maximum Capacity:  3
+Room Number: 207 View:  Street Side Maximum Capacity:  2
+Room Number: 209 View:  Ocean Front Maximum Capacity:  3
+Room Number: 101 View:  Ocean Front Maximum Capacity:  4
+Room Number: 104 View:  Street Side Maximum Capacity:  3
+Room Number: 107 View:  Ocean Front Maximum Capacity:  2
+Room Number: 108 View:  Ocean Front Maximum Capacity:  2 Kitchenette
+Room Number: 109 View:  Ocean Front Maximum Capacity:  2
+Room Number: 202 View:  Ocean Side Maximum Capacity:  4 Kitchenette
+Room Number: 205 View:  Street Side Maximum Capacity:  2
+Room Number: 206 View:  Ocean Side Maximum Capacity:  2
+Room Number: 208 View:  Ocean Front Maximum Capacity:  4
+Room Number: 210 View:  Street Side Maximum Capacity:  2 Kitchenette

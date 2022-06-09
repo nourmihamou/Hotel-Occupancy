@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HotelOccupancy
+comment0.text=\n\ This\ program\ reads\ data\ from\ a\ CSV\ (Comma\ Separated\ Value)\ file\ and\ creates\ a\ new\ output\n\ file\ to\ be\ written.\ \ The\ data\ in\ the\ file\ has\ the\ following\ format\ on\ each\ line.\n\ \n\ int,\ String,\ int,\ String,\ String\n\n\ @author\ Nour\ Mihamou\ and\ Lulama\ Nyembe\n\ @version\ 05/05/2021\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ This\ method\ asks\ the\ user\ if\ they\ would\ like\ to\ review\ available\ rooms.\ If\ so,\ user\ must\ choose\n\ an\ option\ from\ the\ menu.\ Based\ on\ the\ user's\ selection,\ available\ rooms\ are\ displayed\ inn\ the\ \n\ terminal\ window\ as\ well\ as\ an\ external\ file.\n\ \n\ @param\ args\ -\ args[0]\ is\ the\ input\ file\ of\ hotel\ data.\ \n\ @param\ args\ -\ args[1]\ is\ the\ name\ of\ the\ output\ file\ to\ be\ written.\n
+comment2.params=inputFile
+comment2.target=void\ readFile(java.lang.String)
+comment2.text=\n\ This\ method\ opens\ and\ reads\ from\ a\ Comma\ Separated\ File.\ The\ data\ in\ the\ file\ has\ the\ \n\ following\ format\ on\ each\ line\:\n\ \n\ int,\ String,\ int,\ String,\ String\n\ \n\ @param\ inputFile\ The\ file\ input\ by\ the\ user.\n
+comment3.params=name
+comment3.target=void\ writeFile(java.lang.String)
+comment3.text=\n\ This\ method\ takes\ as\ input\ the\ file\ to\ be\ written\ and\ displayed\ on\ another\ window.\n\ \n\ @param\ name\ The\ output\ text\ file.\n
+numComments=4

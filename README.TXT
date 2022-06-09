@@ -1,8 +1,7 @@
 PROJECT TITLE: Hotel Occupancy
+
 PURPOSE OF PROJECT: This program reads data from a CSV (Comma Separated Value) file and creates a new output file to be written.  The data in the file has the following format on each line:
 int, String, int, String, String
-
-PURPOSE: the purpose of this file is to be able to read in a csv file in the main method, and create a file with the output within the local drive. All using the java.io class and java.util class
 
 VERSION or DATE: May 5, 2021
 
